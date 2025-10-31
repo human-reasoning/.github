@@ -10,5 +10,6 @@ We use 🧩 cognitive tasks coupled with 🧠 neural and 👁️ behavioral reco
 ## Contact Us
 We are actively seeking 🤝 collaborators and 🧑‍🤝‍🧑 new team members. If you are interested in working together, please get in touch!
 
-✉️ **Email:** [humanreasoning.lab@gmail.com](mailto:humanreasoning.lab@gmail.com). 
+✉️ **Email:** [humanreasoning.lab@gmail.com](mailto:humanreasoning.lab@gmail.com)
+
 🌐 **Website:** <https://human-reasoning.github.io>
